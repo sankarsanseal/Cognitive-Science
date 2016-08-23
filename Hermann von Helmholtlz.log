@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.11)  23 AUG 2016 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.11)  23 AUG 2016 14:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -116,18 +116,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of TeX's memory you used:
  749 strings out of 493014
  10377 string characters out of 6133351
- 71732 words of memory out of 5000000
+ 70732 words of memory out of 5000000
  4347 multiletter control sequences out of 15000+600000
  8195 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,6n,19p,489b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,19p,488b,189s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmr17.pfb>
-Output written on "Hermann von Helmholtlz.pdf" (2 pages, 73470 bytes).
+Output written on "Hermann von Helmholtlz.pdf" (2 pages, 73568 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
