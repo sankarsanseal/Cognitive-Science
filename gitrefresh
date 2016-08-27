@@ -1,0 +1,4 @@
+#!/bin/bash
+git fetch origin
+git --hard reset master/origin
+git clean -f -d
