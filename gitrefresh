@@ -1,4 +1,4 @@
 #!/bin/bash
 git fetch origin
-git --hard reset master/origin
+git reset --hard origin/master
 git clean -f -d
